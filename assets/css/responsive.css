@@ -54,4 +54,7 @@
     .s-mt-8 {
         margin-top: 8px;
     }
+    .social-list a {
+        padding: 0 10px;
+    }
 }
