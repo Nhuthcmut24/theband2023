@@ -146,7 +146,7 @@ z-index: 1;
     padding-top: 50%;
     position: relative;
     margin-top: var(--nav-height);
-    background: url(/assets/img/chicago.jpg) top center / cover no-repeat;
+    background: url(./assets/img/chicago.jpg) top center / cover no-repeat;
 }
 .slider-text {
     position: absolute;
